@@ -22,6 +22,7 @@
 - **A dog on your taskbar.** Hover it for the things you do most. Drag it wherever you like; it parachutes back down.
 - **Catch a thought in one line.** `Ctrl` + `Shift` + `Space` from anywhere, type *"call the vet tmrw 5pm high"*, press Enter. Dates, times, repeats and priorities are understood the way you type them.
 - **Reminders you notice.** When one is due, a card arrives with the dog: Done, or put it off for five minutes, an hour, or until tomorrow.
+- **A check on what is left.** A few times a day, less often as the day goes on, the dog says how many todos are still open. It stops when they are done.
 - **Focus timer.** Pick a length, start. The countdown rides above the dog and gets out of your way.
 - **Habits.** A handful of daily habits, a week at a glance, and one gentle check-in in the evening.
 - **Boards.** A free canvas for loose ideas: coloured notes, checklists, links and pictures, wherever you put them.
